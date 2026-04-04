@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to stream video.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app needs microphone access to stream audio.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Allow MoonlightWebcam to stream video to other devices on your local network.</string>
+</dict>
+</plist>
