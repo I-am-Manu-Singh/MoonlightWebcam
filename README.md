@@ -1,5 +1,10 @@
 # 🌙 Moonlight Webcam — High-Performance Multiplatform Camera & RTSP Streaming Suite
 
+<p align="center">
+  <img src="playstore/icon_512.png" alt="Moonlight Webcam Logo" width="128" height="128" style="border-radius: 20%;" />
+</p>
+
+
 [![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-2.0+-7F52FF.svg?logo=kotlin)](https://kotlinlang.org/)
 [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-1.6+-4285F4.svg?logo=jetpackcompose)](https://www.jetbrains.com/lp/compose-multiplatform/)
 [![CameraX](https://img.shields.io/badge/CameraX-1.3+-00C853.svg?logo=android)](https://developer.android.com/training/camerax)
@@ -130,3 +135,49 @@ git clone https://github.com/I-am-Manu-Singh/MoonlightWebcam.git
 
 ## 👤 Author
 **Manpreet Singh** ([@I-am-Manu-Singh](https://github.com/I-am-Manu-Singh)) · **Creative Bliss Labs**
+
+
+---
+
+## 📱 App Screenshots
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_1.png" alt="Screenshot 1" width="100%" /><br />
+        <b>1. Main Screen</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_2.png" alt="Screenshot 2" width="100%" /><br />
+        <b>2. Core Experience</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_3.png" alt="Screenshot 3" width="100%" /><br />
+        <b>3. Interactive Mode</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_4.png" alt="Screenshot 4" width="100%" /><br />
+        <b>4. Advanced Features</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_5.png" alt="Screenshot 5" width="100%" /><br />
+        <b>5. Workflow / Details</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_6.png" alt="Screenshot 6" width="100%" /><br />
+        <b>6. Studio Console</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_7.png" alt="Screenshot 7" width="100%" /><br />
+        <b>7. Settings & Config</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/screenshot_8.png" alt="Screenshot 8" width="100%" /><br />
+        <b>8. Dark & Light Theme</b>
+      </td>
+    </tr>
+  </table>
+</p>
